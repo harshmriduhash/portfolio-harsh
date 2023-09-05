@@ -1,0 +1,61 @@
+.cards-container{
+    max-width: 1000px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:40px;
+}
+.cards{
+    border: 1px solid rgb(194, 185, 185);
+    color: rgb(51, 50, 50);
+    text-align: center;
+    padding: 1rem;
+}
+
+.cards:hover{
+    background-color: #141414;
+}
+
+.heading h1{
+    text-align: center;
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+    margin-top: 3rem;
+    font-size: 4rem;
+}
+.calendar{
+    color: #eee;
+    margin: 1rem 1rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+@media (max-width:800px )  {
+    .cards-container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: repeat(2,1fr);
+        
+    }
+    
+}
+
+@media (max-width:720px) {
+    .cards-container{
+        max-width: 50%;
+        margin: auto;
+        grid-template-columns: 1fr;
+        
+    }
+    .heading h1{
+        font-size: 3rem;
+    }
+    .calendar{
+       
+        margin: 0 ;
+        
+    }
+    
+}
