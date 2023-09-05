@@ -1,10 +1,7 @@
-[![Website](https://img.shields.io/badge/Website-Up-brightgreen)](https://vidushigandhi.vercel.app/) 
-[![HitCount](http://hits.dwyl.com/VGandhi27/Portfolio-ReactJs.svg)](http://hits.dwyl.com/VGandhi27/Portfolio-ReactJs)
-[![GitHub forks](https://img.shields.io/github/forks/VGandhi27/Portfolio-ReactJs?label=Forks)](https://github.com/VGandhi27/Portfolio-ReactJs/network)                                                                                                                                           [![GitHub stars](https://img.shields.io/github/stars/VGandhi27/Portfolio-ReactJs?label=Stars)](https://github.com/VGandhi27/Portfolio-ReactJs/stargazers)                                                                                                                                                      ![Github License](https://img.shields.io/badge/Licence-MIT-blueviolet)                                                                                                                                              [![contributors](https://img.shields.io/badge/contributors-1-orange)](https://img.shields.io/badge/contributors-1-orange) 
 
 # Hello Everyone!  <img src="https://user-images.githubusercontent.com/34706326/87240698-80b8dc00-c439-11ea-886c-747fb2f74952.gif" align = left width="60" height="60"> <img src="https://user-images.githubusercontent.com/34706326/87228193-1febbe00-c3bd-11ea-9e73-7b094fda02b2.png" align=right width="450" height="320">
 
-I am **Vidushi Gandhi**, an undergraduate student at Echelon Institute of Technology, Faridabad doing a major in Computer Science Engineering with a huge passion for building Web Apps, working on backend stuff and exploring the future of Cloud. \
+I am **Harsh Mriduhash**, an undergraduate student at Echelon Institute of Technology, Faridabad doing a major in Computer Science Engineering with a huge passion for building Web Apps, working on backend stuff and exploring the future of Cloud. \
 _You can find more about me [here](https://vidushigandhi.vercel.app/)_
 
 ## Sections 📚
