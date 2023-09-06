@@ -11,7 +11,7 @@ const Brief_Intro = () => {
           I think… 🤷‍♂️ </p>
          <p> I am fluent in classics like Javascript and TypeScript.</p>
          <p>
-          My field of Interest's are building new Web Technologies and Products
+          My field of Interest's are building new Tech Products
           and also in areas related to Machine learning and Data Mining.</p>
           <p> Whenever possible, I also apply my passion for developing
           products with Node.js and Modern Javascript Library and Frameworks

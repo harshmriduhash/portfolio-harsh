@@ -2,7 +2,6 @@ import "./FormStyle.css"
 import React from 'react'
 import { useForm, ValidationError } from '@formspree/react';
 
-
 const Form = () => {
     const [state, handleSubmit] = useForm("mnqyjzrp");
     if (state.succeeded) {
@@ -15,7 +14,6 @@ const Form = () => {
         <form onSubmit={handleSubmit}>
             <label htmlFor="">Your Name</label>
             <input type="text" />
-
             <label htmlFor="">Email</label>
             <input type="email" id="email" name="email"/>
             <ValidationError 

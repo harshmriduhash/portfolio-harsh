@@ -8,12 +8,12 @@ const Aboutcontent = () => {
       <div className="left">
         <h1>About Me</h1>
         <p>
-           Hi Everyone, I am Harsh Mriduhash from New Delhi, India. </p>
+           Hi Everyone, I am Harsh Mriduhash from Delhi NCR, India. </p>
 <p> I am a Graduated from Techno India University, & I have 5 years of experience.</p>
 
 <p>Apart from coding, some other activities that I love to do!</p>
 <ul typeof="dots">
-  <li>Watching KDrama</li>
+  <li>Watching Podcast </li>
   <li>Writing Tech Blogs</li>
   <li>Travelling</li>
 </ul>

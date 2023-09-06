@@ -1,5 +1,4 @@
 import "./BlogCardStyle.css"
-
 import React from 'react'
 import BlogCard from "./BlogCard"
 import BlogCardData from './BlogCardData'

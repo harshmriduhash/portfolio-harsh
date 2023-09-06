@@ -4,10 +4,7 @@ import {GrReactjs} from 'react-icons/gr'
 import {FaGitAlt} from 'react-icons/fa'
 import {SiRedux,SiFirebase,SiPostman} from 'react-icons/si'
 import {IoLogoTux,IoLogoVercel} from 'react-icons/io5'
-
 import GitHubCalendar from "react-github-calendar"
-
-
 import "./ToolsUsedStyle.css"
 
 const ToolsUsed = () => {

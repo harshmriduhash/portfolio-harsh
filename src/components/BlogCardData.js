@@ -6,7 +6,6 @@ import ss5 from '../assets/ss5.png'
 import blockchain from '../assets/blockchain.jpeg'
 import plastic1 from '../assets/plastic1.jfif'
 
-
 const ProjectCardData =[
     {
         imgsrc:ss1,
@@ -54,7 +53,6 @@ const ProjectCardData =[
         view:"https://www.papersdrop.in/curiousvidushi27/-best-tricks-to-organize-your-plastic-waste-in-your-life/40640d74-db18-49c2-9032-51c0e1e8e4fe"
         
     },
-    
 ]
 
 export default ProjectCardData;
